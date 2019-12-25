@@ -1,3 +1,4 @@
+# mysmb.py
 # impacket SMB extension for MS17-010 exploit.
 # this file contains only valid SMB packet format operation.
 from impacket import smb, smbconnection
